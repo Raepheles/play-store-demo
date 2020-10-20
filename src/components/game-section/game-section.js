@@ -9,20 +9,20 @@ class GameSection extends React.Component {
 
   getCards() {
     let games = this.props.games;
-    let windowWidth = window.innerWidth;
-    let totalSpace = 80;
+    let cardsToShow = Math.floor((this.state.width - 97) / 170);
     let cards = [];
-    for (const game of games) {
-      if (windowWidth > totalSpace + 170) {
-        let temp = <Card name={game.name}
-          desc={game.desc}
-          rating={game.rating}
-          gameLink={game.gameLink}
-          publisherLink={game.publisherLink}
-          imgSrc={`${process.env.PUBLIC_URL}/games/${game.img}`} />
-        cards.push(temp);
-        totalSpace += 170;
-      }
+    for (let i = 0; i < games.length; i++) {
+      if (i === cardsToShow) break;
+      const game = games[i];
+      let temp = <Card 
+        key={i}
+        name={game.name}
+        desc={game.desc}
+        rating={game.rating}
+        gameLink={game.gameLink}
+        publisherLink={game.publisherLink}
+        imgSrc={`${process.env.PUBLIC_URL}/games/${game.img}`} />
+      cards.push(temp);
     }
     return (
       <>
@@ -32,6 +32,9 @@ class GameSection extends React.Component {
   }
 
   componentDidMount() {
+    this.setState({
+      width: window.innerWidth
+    });
     window.addEventListener('resize', () => {
       this.setState({
         width: window.innerWidth

@@ -10,12 +10,12 @@ class Card extends React.Component {
     if (rating > 5) rating = 5;
     let result = [];
     for (let i = 1; i <= rating; i++) {
-      let temp = <div className="card-rating-star"></div>;
+      let temp = <div key={i} className="card-rating-star"></div>;
       result.push(temp);
     }
     let resultLength = result.length;
     for (let i = 1; i <= 5 - resultLength; i++) {
-      let temp = <div className="card-rating-star-empty"></div>;
+      let temp = <div key={6-i} className="card-rating-star-empty"></div>;
       result.push(temp);
     }
     return (
