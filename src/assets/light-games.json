@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Brawl Stars",
+    "desc": "Supercell",
+    "rating": 4,
+    "img": "brawl-stars.png",
+    "gameLink": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars",
+    "publisherLink": "https://play.google.com/store/apps/dev?id=6715068722362591614"
+  },
+  {
+    "name": "Candy Crush Friends Saga",
+    "desc": "King",
+    "rating": 5,
+    "img": "cc-friends-saga.webp",
+    "gameLink": "https://play.google.com/store/apps/details?id=com.king.candycrush4",
+    "publisherLink": "https://play.google.com/store/apps/dev?id=6577204690045492686"
+  },
+  {
+    "name": "Head Ball 2",
+    "desc": "Masomo Gaming",
+    "rating": 4,
+    "img": "head-ball.png",
+    "gameLink": "https://play.google.com/store/apps/details?id=com.masomo.headball2",
+    "publisherLink": "https://play.google.com/store/apps/dev?id=5498003471817844893"
+  },
+  {
+    "name": "Tintin Match",
+    "desc": "5th Planet Games Developer",
+    "rating": 5,
+    "img": "tintin-match.webp",
+    "gameLink": "https://play.google.com/store/apps/details?id=com.fpg.tintin",
+    "publisherLink": "https://play.google.com/store/apps/dev?id=7460216158497312684"
+  },
+  {
+    "name": "2048",
+    "desc": "2048 Game",
+    "rating": 5,
+    "img": "2048.webp",
+    "gameLink": "https://play.google.com/store/apps/details?id=game2048.b2048game.twozerofoureight2048.game",
+    "publisherLink": "https://play.google.com/store/apps/developer?id=2048+Game"
+  },
+  {
+    "name": "Minesweeper",
+    "desc": "Evgeny Karavashkin",
+    "rating": 4,
+    "img": "minesweeper.webp",
+    "gameLink": "https://play.google.com/store/apps/details?id=Draziw.Button.Mines",
+    "publisherLink": "https://play.google.com/store/apps/developer?id=Evgeny+Karavashkin"
+  },
+  {
+    "name": "Flow Free",
+    "desc": "Big Duck Games LLC",
+    "rating": 4,
+    "img": "flowfree.webp",
+    "gameLink": "https://play.google.com/store/apps/details?id=com.bigduckgames.flow",
+    "publisherLink": "https://play.google.com/store/apps/dev?id=5251530371678806790"
+  },
+  {
+    "name": "Flow Free",
+    "desc": "Big Duck Games LLC",
+    "rating": 4,
+    "img": "flowfree.webp",
+    "gameLink": "https://play.google.com/store/apps/details?id=com.bigduckgames.flow",
+    "publisherLink": "https://play.google.com/store/apps/dev?id=5251530371678806790"
+  },
+  {
+    "name": "Flow Free",
+    "desc": "Big Duck Games LLC",
+    "rating": 4,
+    "img": "flowfree.webp",
+    "gameLink": "https://play.google.com/store/apps/details?id=com.bigduckgames.flow",
+    "publisherLink": "https://play.google.com/store/apps/dev?id=5251530371678806790"
+  },
+  {
+    "name": "Flow Free",
+    "desc": "Big Duck Games LLC",
+    "rating": 4,
+    "img": "flowfree.webp",
+    "gameLink": "https://play.google.com/store/apps/details?id=com.bigduckgames.flow",
+    "publisherLink": "https://play.google.com/store/apps/dev?id=5251530371678806790"
+  },
+  {
+    "name": "Flow Free",
+    "desc": "Big Duck Games LLC",
+    "rating": 4,
+    "img": "flowfree.webp",
+    "gameLink": "https://play.google.com/store/apps/details?id=com.bigduckgames.flow",
+    "publisherLink": "https://play.google.com/store/apps/dev?id=5251530371678806790"
+  }
+]

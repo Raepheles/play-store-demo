@@ -1,0 +1,53 @@
+.game-section {
+  margin-bottom: 50px;
+  display: grid;
+}
+
+.game-section-header {
+  vertical-align: middle;
+  display: inline-block;
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.header-desc {
+  font-size: 16px;
+}
+
+.header-left {
+  padding-left: 5px;
+  float: left;
+  display: grid;
+}
+
+.header-right {
+  position: absolute;
+  right: 40px;
+  margin-top: 15px;
+}
+
+.see-more {
+  font-weight: bold;
+  line-height: 30px;
+  text-align: center;
+  color: white;
+  border-radius: 5px;
+  padding: 0 13px;
+  font-size: 14px;
+  width: 85px;
+  height: 30px;
+  background-color: #689F38;
+  cursor: pointer;
+}
+
+.see-more:hover {
+  background-color: #8BC34A;
+  -webkit-box-shadow: inset 0px -2px 0px 0px rgba(0,0,0,0.5);
+  -moz-box-shadow: inset 0px -2px 0px 0px rgba(0,0,0,0.5);
+  box-shadow: inset 0px -2px 0px 0px rgba(0,0,0,0.5);
+}
+
+.game-section-cards {
+  vertical-align: middle;
+  display: inline-block;
+}

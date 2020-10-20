@@ -1,0 +1,115 @@
+.card {
+  float: left;
+  background-color: white;
+  margin: 5px;
+  width: 160px;
+  height: 245px;
+  display: table;
+  border-radius: 2px;
+  box-sizing: border-box;
+  box-shadow: 0 1px 1px 0 rgba(0,0,0,0.14), 0 2px 1px -1px rgba(0,0,0,0.12), 0 1px 3px 0 rgba(0,0,0,0.2);
+}
+
+.card a {
+  color: black;
+}
+
+.card a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+.card-image {
+  padding: 16px;
+}
+
+.card-img {
+  width: 128px;
+  height: 128px;
+}
+
+.card-img-overlay {
+  transition: 0.5s;
+  background-color: rgba(0, 0, 0, 0);
+  width: 158px;
+  height: 160px;
+}
+
+.card-table {
+  display: table;
+}
+
+.card-table-row {
+  display: table-row;
+}
+
+.card-table-cell {
+  display: table-cell;
+}
+
+.card-bottom-main-cell {
+  padding: 7px 10px;
+  overflow: hidden;
+  display: table-cell;
+}
+
+.card-rating-cell {
+  vertical-align: bottom;
+  display: table-cell;
+}
+
+.card-rating {
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.card-rating-star {
+  float: left;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAn0lEQVR4AWNAB+Xl5drFxcXGDIQAUNHskpKSxXgVVVZWigIVfQcq/lVVVSWJboJxWVmZX2lpaQpQ0Wog/z8IA9lrgDgPiHOA8tEgN7kDOZ9Akjjwe6BCM7CpQNMMgIqfYlH0FihnhOIEoMIIdIVAsTaQHLrCWiwKN2EohHrkM9CqXCA7Gch+DcSPsIXfBKDH5GD8hoYGIaCGGUBaAMQHAMs6d9dLo6HcAAAAAElFTkSuQmCC) no-repeat left;
+  margin: 0 2px;
+  height: 10px;
+  width: 10px;
+}
+
+.card-rating-star-empty {
+  float: left;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAoUlEQVR4AWNAB7dv39a+c+eOMQMhcPPmzdlAvBhVFNM00Vu3bn0HKvz14MEDSRRJkDVABX5AnAJUtBqo6D8IA9lrgDgPyM4BykWDTHEHcj6BJFEwQsN7IG0GNhXIMQBynmJR+BZokBG6JyLQFQIVtSGrgZlai8XaTRgKoR75DKRzgSYlA9mvgexH2BROuHv3rhyM//jxYyGg2Iz79+8LgPgAWIi+JMqA+1MAAAAASUVORK5CYII=) no-repeat left;
+  margin: 0 2px;
+  height: 10px;
+  width: 10px;
+}
+
+.card-top {
+  display: table-row;
+  position: relative;
+  text-align: center;
+  height: 160px;
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.card-top:hover .card-img-overlay {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.card-bottom {
+  display: table-row;
+  height: 85px;
+}
+
+.card-name {
+  font-size: 16px;
+  max-height: 24px;
+  overflow: hidden;
+  position: relative;
+  word-break: break-all;
+}
+
+.card-desc {
+  font-size: 13px;
+  line-height: 17px;
+  max-height: 17px;
+  overflow: hidden;
+  position: relative;
+  word-break: break-all;
+}

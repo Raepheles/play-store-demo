@@ -1,0 +1,17 @@
+.app {
+  font-family: 'Roboto', Arial, sans-serif;
+  bottom: auto;
+  right: auto;
+  width: auto;
+  height: 100%;
+  position: relative;
+}
+
+.noselect {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none; 
+  user-select: none; 
+}

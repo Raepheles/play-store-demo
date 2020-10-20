@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Call of Duty®: Mobile",
+    "desc": "Activision Publishing, Inc.",
+    "rating": 4,
+    "img": "cod.png",
+    "gameLink": "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter",
+    "publisherLink": "https://play.google.com/store/apps/developer?id=Activision+Publishing,+Inc."
+  },
+  {
+    "name": "Brawl Stars",
+    "desc": "Supercell",
+    "rating": 4,
+    "img": "brawl-stars.png",
+    "gameLink": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars",
+    "publisherLink": "https://play.google.com/store/apps/dev?id=6715068722362591614"
+  },
+  {
+    "name": "Asphalt 9: Legends",
+    "desc": "Gameloft SE",
+    "rating": 4,
+    "img": "asphalt9.png",
+    "gameLink": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA9HM",
+    "publisherLink": "https://play.google.com/store/apps/dev?id=4826827787946964969"
+  },
+  {
+    "name": "Head Ball 2",
+    "desc": "Masomo Gaming",
+    "rating": 4,
+    "img": "head-ball.png",
+    "gameLink": "https://play.google.com/store/apps/details?id=com.masomo.headball2",
+    "publisherLink": "https://play.google.com/store/apps/dev?id=5498003471817844893"
+  },
+  {
+    "name": "PUBG MOBILE LITE",
+    "desc": "Tencent Games",
+    "rating": 4,
+    "img": "pubg.png",
+    "gameLink": "https://play.google.com/store/apps/details?id=com.tencent.iglite",
+    "publisherLink": "https://play.google.com/store/apps/dev?id=8638120915920097780"
+  },
+  {
+    "name": "Genshin Impact",
+    "desc": "miHoYo Limited",
+    "rating": 5,
+    "img": "genshin.webp",
+    "gameLink": "https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact",
+    "publisherLink": "https://play.google.com/store/apps/developer?id=miHoYo+Limited"
+  },
+  {
+    "name": "Rise of the Kings",
+    "desc": "ONEMT",
+    "rating": 4,
+    "img": "rotk.webp",
+    "gameLink": "https://play.google.com/store/apps/details?id=com.and.riseofthekings",
+    "publisherLink": "https://play.google.com/store/apps/dev?id=8999084889030602957"
+  },
+  {
+    "name": "Among Us",
+    "desc": "Innersloth LLC",
+    "rating": 5,
+    "img": "among-us.webp",
+    "gameLink": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia",
+    "publisherLink": "https://play.google.com/store/apps/developer?id=Innersloth+LLC"
+  },
+  {
+    "name": "Sonic Forces",
+    "desc": "SEGA",
+    "rating": 4,
+    "img": "sonic-forces.webp",
+    "gameLink": "https://play.google.com/store/apps/details?id=com.sega.sprint",
+    "publisherLink": "https://play.google.com/store/apps/dev?id=7891990035506213180"
+  },
+  {
+    "name": "Sword Master Story",
+    "desc": "Super Planet",
+    "rating": 5,
+    "img": "sword-master-story.webp",
+    "gameLink": "https://play.google.com/store/apps/details?id=com.superplanet.swordmaster",
+    "publisherLink": "https://play.google.com/store/apps/dev?id=8956405876087413010"
+  },
+  {
+    "name": "Tintin Match",
+    "desc": "5th Planet Games Developer",
+    "rating": 5,
+    "img": "tintin-match.webp",
+    "gameLink": "https://play.google.com/store/apps/details?id=com.fpg.tintin",
+    "publisherLink": "https://play.google.com/store/apps/dev?id=7460216158497312684"
+  }
+]
